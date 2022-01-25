@@ -1,6 +1,6 @@
 ---
 spec_version: "1.0"
-filter: {}
+filter:
 comparison:
   compare_with: single_result
   include_result_with_score: pass
@@ -9,8 +9,6 @@ comparison:
 objectives:
   - sli: proc_count
     displayName: ""
-    pass: []
-    warning: []
     weight: 1
     key_sli: false
 total_score:
