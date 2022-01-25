@@ -1,4 +1,5 @@
-spec_version: ""
+---
+spec_version: "1.0"
 filter: {}
 comparison:
   compare_with: single_result
