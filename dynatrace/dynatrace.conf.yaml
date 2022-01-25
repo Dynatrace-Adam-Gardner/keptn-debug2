@@ -1,5 +1,4 @@
 spec_version: '0.1.0'
-dashboard: query
 dtCreds: keptn-debug2-token
 attachRules:
   tagRule:
